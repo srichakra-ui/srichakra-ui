@@ -5,7 +5,7 @@
 ---
 
 - I am currently learning Devops 
-- I am looking to collaborate on Web development and Data science projects
+- I am looking to collaborate on Web development , UX design and Data science projects
 - 😄 Pronouns: He/Him
 
 \
