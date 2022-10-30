@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srichakra-ui
+- 👋 Hi, I’m Sri Chakra Teja
 - 👀 I’m interested in Web Development, Cloud, UX Design 
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me - srichakratejasakalabathula@gmail.com
