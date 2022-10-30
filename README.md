@@ -1,6 +1,6 @@
 ## Hey there people! 👋
 
-#### I am Sri Chakra Teja, a Computer Science Undergrad from ![India] 
+#### I am Sri Chakra Teja, a Computer Science Undergrad from India !!
 
 ---
 
@@ -12,10 +12,9 @@
 📫 Reach me here: 
 \
 \
-[![Gmail Badge](https://img.shields.io/badge/-srichakratejasakalabathula@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:dev.manavpatnaik@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-srichakratejasakalabathula@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:srichakratejasakalabathula@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-chakra-teja-sakalabathula-b12aa9193/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cverse25)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/755294941118201926)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srichakra-ui)
 
 
