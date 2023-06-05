@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sri Chakra Teja</h1>
 <h3 align="center">A passionate developer interested in Frontend, Cloud, Devops and DSA</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srichakra-ui&label=Profile%20views&color=0e75b6&style=flat" alt="srichakra-ui" /> </p>
 
 - 🌱 I’m currently learning **Javascript and AWS**
